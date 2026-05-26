@@ -105,10 +105,6 @@ Java Backend Developer | Spring Boot | REST APIs | DSA Enthusiast
 * Java + JDBC based project
 * Performed database operations using MySQL
 
-### 🔹 Packet Sniffer Project
-
-* Network packet analysis project
-* Explored basic computer networking concepts
 
 ---
 
