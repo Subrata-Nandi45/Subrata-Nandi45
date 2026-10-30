@@ -57,19 +57,12 @@
 ## ⚒️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="5" />
-  
-  <!-- Frameworks -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40" hspace="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="hibernate" width="40" height="40" hspace="5" />
-  
-  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" hspace="5" />
-  
-  <!-- Developer Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" hspace="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" hspace="5" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" hspace="5" />
@@ -97,15 +90,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=subrata-nandi45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subrata-nandi45&theme=tokyonight" alt="Profile Summary Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subrata-nandi45&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=subrata-nandi45&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subrata-nandi45&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subrata-nandi45&theme=tokyonight" alt="Languages Card" />
 </p>
 
 ---
